@@ -1,2 +1,5 @@
 # video-player
-A video player made to how I want 
+GOALS:
+    - Video Player
+    - Useful for when playing music videos
+    - Control from phone
